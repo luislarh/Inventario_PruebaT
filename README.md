@@ -70,7 +70,8 @@
      );
      select * from Movimientos;
     ```
-    ### Pasos para Ejecutar
+
+### Pasos para Ejecutar
 
 1. **Clonar el Repositorio**
 2. **Importar el Proyecto en el IDE*
