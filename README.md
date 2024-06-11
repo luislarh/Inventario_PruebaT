@@ -22,8 +22,9 @@
     - Crear una base de datos en MySQL con el nombre `inventario`.
     - Ejecute el siguiente script SQL para crear las tablas necesarias:
     ```
-      create database Inventario;
-     use Inventario;
+    
+     create database Inventario;
+      use Inventario;
      
      CREATE TABLE Roles (
          id_rol INT PRIMARY KEY AUTO_INCREMENT,
