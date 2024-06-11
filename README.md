@@ -20,6 +20,8 @@
 
 *Configurar la Base de Datos**:
     - Crear una base de datos en MySQL con el nombre `inventario`.
+    - Importa la Base de datos llamada  `inventario.sql` se encuentra dentro de la carpeta SCRIPTS.
+    - O
     - Ejecute el siguiente script SQL para crear las tablas necesarias:
     ```
     
