@@ -7,7 +7,7 @@
 
 ### Lenguaje de Programación
 - **Lenguaje**: Java
-- **Versión**: 17.0.7
+- **Versión**: 17.0.7 SDK
 
  ### DBMS Utilizado
 
